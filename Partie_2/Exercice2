@@ -1,0 +1,8 @@
+from typing import List
+
+def custom_sort(strings: List[str]) -> List[str]:
+    return sorted(strings, key=lambda x: (len(x), x))
+
+# Voici un exemple d'utilisation de la fonction ci-dessus
+result = custom_sort(["apple", "bat", "zebra", "a", "antelope"])
+print(result)

@@ -1,0 +1,10 @@
+date,region,consumption_twh
+2020-01-01,Region1,10.5
+2020-02-01,Region2,15.2
+2020-03-01,Region3,20.3
+2021-01-01,Region1,12.1
+2021-02-01,Region2,16.5
+2021-03-01,Region3,22.0
+2022-01-01,Region1,13.0
+2022-02-01,Region2,17.8
+2022-03-01,Region3,23.5
